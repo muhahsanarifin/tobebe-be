@@ -1,0 +1,7 @@
+node_modules
+
+.env
+
+# Database
+src/db/mongo.js
+src/db/dummy.js
